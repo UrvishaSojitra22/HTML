@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Playwrite BE VLG';
+    src: url('../fonts../fontsPlaywriteBEVLG-Light.woff2') format('woff2'),
+        url('../fonts../fontsPlaywriteBEVLG-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite BE VLG';
+    src: url('../fonts../fontsPlaywriteBEVLG-Thin.woff2') format('woff2'),
+        url('../fonts../fontsPlaywriteBEVLG-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite BE VLG';
+    src: url('../fonts../fontsPlaywriteBEVLG-Regular.woff2') format('woff2'),
+        url('../fonts../fontsPlaywriteBEVLG-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite BE VLG';
+    src: url('../fonts../fontsPlaywriteBEVLG-ExtraLight.woff2') format('woff2'),
+        url('../fonts../fontsPlaywriteBEVLG-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+

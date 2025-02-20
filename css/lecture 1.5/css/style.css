@@ -1,0 +1,17 @@
+*{
+     box-sizing: border-box;
+     margin: 0px;
+     padding: 0px;
+
+}
+.Box{
+    height: 400px;
+    width: 400px;
+    background-color: seagreen;
+    border: 2px solid black;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 10% 10%;
+    padding: 100PX;
+
+}
